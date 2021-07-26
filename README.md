@@ -12,4 +12,4 @@ this will allow us to fix it faster.
 Just explain clearly, provide screenshot if you want us to change something on the map.
 
 ### Help us translate the server
-todo...(If your language is not available, please create an issue)
+Just make a Pull requests!(If your language is not available, please create an issue)
