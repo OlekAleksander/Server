@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "anticheat",
+      "type": "text",
+      "languages": {
+        "Chinese_Simplified": "反作弊",
+        "English": "Anticheat",
+        "Chinese_Traditional": "反作弊",
+        "Polish": "none",
+        "Russian": "none",
+        "French": "none",
+        "Latvian": "none",
+        "Finnish": "none",
+        "Czech": "none",
+        "German": "none",
+        "Nederlands": "none",
+        "Turkish": "none"
+      }
+    },
+    {
+      "key": "rank",
+      "type": "text",
+      "languages": {
+        "Chinese_Simplified": "等级",
+        "Chinese_Traditional": "等级",
+        "English": "Rank",
+        "Polish": "none",
+        "Russian": "none",
+        "French": "none",
+        "Latvian": "none",
+        "Finnish": "none",
+        "German": "none",
+        "Czech": "none",
+        "Nederlands": "none",
+        "Turkish": "none"
+      }
+    },
+    {
+      "key": "kick",
+      "type": "text",
+      "languages": {
+        "Chinese_Simplified": "踢出",
+        "Chinese_Traditional": "踢出",
+        "English": "Kick",
+        "Polish": "none",
+        "Russian": "none",
+        "French": "none",
+        "Latvian": "none",
+        "Finnish": "none",
+        "German": "none",
+        "Czech": "none",
+        "Nederlands": "none",
+        "Turkish": "none"
+      }
+    },
+    {
+      "key": "damage",
+      "type": "text",
+      "languages": {
+        "Chinese_Simplified": "伤害",
+        "Chinese_Traditional": "伤害",
+        "English": "Damage",
+        "Polish": "none",
+        "Russian": "none",
+        "French": "none",
+        "Latvian": "none",
+        "Finnish": "none",
+        "German": "none",
+        "Czech": "none",
+        "Nederlands": "none",
+        "Turkish": "none"
+      }
+    },
+    {
+      "key": "hunger",
+      "type": "text",
+      "languages": {
+        "Chinese_Simplified": "饥饿",
+        "Chinese_Traditional": "饥饿",
+        "English": "Hunger",
+        "Polish": "none",
+        "Russian": "none",
+        "French": "none",
+        "Latvian": "none",
+        "Finnish": "none",
+        "German": "none",
+        "Czech": "none",
+        "Nederlands": "none",
+        "Turkish": "none"
+      }
+    },
+    {
+      "key": "title",
+      "type": "text",
+      "languages": {
+        "English": "Loyisa\u0027s Test Server",
+        "Chinese_Simplified": "Loyisa的测试服务器",
+        "Chinese_Traditional": "Loyisa的測試伺服器",
+        "Polish": "none",
+        "Russian": "none",
+        "French": "none",
+        "Latvian": "none",
+        "Finnish": "none",
+        "German": "none",
+        "Czech": "none",
+        "Nederlands": "none",
+        "Turkish": "none"
+      }
+    }
+  ]
+}
