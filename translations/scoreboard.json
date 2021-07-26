@@ -17,7 +17,7 @@
         "Latvian": "none",
         "Finnish": "none",
         "Czech": "none",
-        "German": "none",
+        "German": "Anticheat",
         "Nederlands": "none",
         "Turkish": "none"
       }
@@ -34,7 +34,7 @@
         "French": "none",
         "Latvian": "none",
         "Finnish": "none",
-        "German": "none",
+        "German": "Rang",
         "Czech": "none",
         "Nederlands": "none",
         "Turkish": "none"
@@ -52,7 +52,7 @@
         "French": "none",
         "Latvian": "none",
         "Finnish": "none",
-        "German": "none",
+        "German": "Kick",
         "Czech": "none",
         "Nederlands": "none",
         "Turkish": "none"
@@ -70,7 +70,7 @@
         "French": "none",
         "Latvian": "none",
         "Finnish": "none",
-        "German": "none",
+        "German": "Schaden",
         "Czech": "none",
         "Nederlands": "none",
         "Turkish": "none"
@@ -88,7 +88,7 @@
         "French": "none",
         "Latvian": "none",
         "Finnish": "none",
-        "German": "none",
+        "German": "Hunger",
         "Czech": "none",
         "Nederlands": "none",
         "Turkish": "none"
@@ -106,7 +106,7 @@
         "French": "none",
         "Latvian": "none",
         "Finnish": "none",
-        "German": "none",
+        "German": "Loyisa\u0027s Test Server",
         "Czech": "none",
         "Nederlands": "none",
         "Turkish": "none"
