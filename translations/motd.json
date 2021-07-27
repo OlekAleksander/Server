@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "blacklist": true,
+    "servers": []
+  },
+  "items": [
+    {
+      "key": "server.motd.line1eu",
+      "type": "text",
+      "languages": {
+        "Chinese_Simplified": "Loyisa的欧洲测试服务器 (1.8.x~1.17.1)",
+        "English": "Loyisa\u0027s Europe Testserver (1.8.x~1.17.1)",
+        "Chinese_Traditional": "Loyisa的欧洲测试服务器 (1.8.x~1.17.1)",
+        "Polish": " ",
+        "Russian": " ",
+        "French": " ",
+        "Latvian": " ",
+        "Finnish": " ",
+        "German": " ",
+        "Czech": " ",
+        "Nederlands": " ",
+        "Turkish": " "
+      }
+    },
+    {
+      "key": "server.motd.line2eu",
+      "type": "text",
+      "languages": {
+        "Chinese_Simplified": "亚洲服务器 -\u003e mc.loyisa.cn",
+        "English": "Asia Server -\u003e mc.loyisa.cn",
+        "Chinese_Traditional": "亚洲服务器 -\u003e mc.loyisa.cn",
+        "Polish": " ",
+        "Russian": " ",
+        "French": " ",
+        "Latvian": " ",
+        "Finnish": " ",
+        "German": " ",
+        "Czech": " ",
+        "Nederlands": " ",
+        "Turkish": " "
+      }
+    },
+    {
+      "key": "server.motd.line1asia",
+      "type": "text",
+      "languages": {
+        "Chinese_Simplified": "Loyisa的亚洲测试服务器 (1.8.x~1.17.1)",
+        "English": "Loyisa\u0027s Asia TestServer  (1.8.x~1.17.1)",
+        "Chinese_Traditional": "Loyisa的亚洲测试服务器 (1.8.x~1.17.1)",
+        "Polish": " ",
+        "Russian": " ",
+        "French": " ",
+        "Latvian": " ",
+        "Finnish": " ",
+        "German": " ",
+        "Czech": " ",
+        "Nederlands": " ",
+        "Turkish": " "
+      }
+    },
+    {
+      "key": "server.motd.line2asia",
+      "type": "text",
+      "languages": {
+        "Chinese_Simplified": "欧洲服务器 -\u003e eu.loyisa.cn",
+        "English": "Europe Server -\u003e eu.loyisa.cn",
+        "Chinese_Traditional": "欧洲服务器 -\u003e eu.loyisa.cn",
+        "Polish": " ",
+        "Russian": " ",
+        "French": " ",
+        "Latvian": " ",
+        "Finnish": " ",
+        "German": " ",
+        "Czech": " ",
+        "Nederlands": " ",
+        "Turkish": " "
+      }
+    }
+  ]
+}
