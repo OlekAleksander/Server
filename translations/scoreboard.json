@@ -10,7 +10,7 @@
       "languages": {
         "Chinese_Simplified": "反作弊",
         "English": "Anticheat",
-        "Chinese_Traditional": "反作弊",
+        "Chinese_Traditional": "目前反作弊",
         "Polish": "AntyCheat",
         "Russian": "Античит",
         "French": "Anticheat",
@@ -63,7 +63,7 @@
       "type": "text",
       "languages": {
         "Chinese_Simplified": "伤害",
-        "Chinese_Traditional": "伤害",
+        "Chinese_Traditional": "傷害",
         "English": "Damage",
         "Polish": "Obrażenia",
         "Russian": "Урон",
@@ -81,7 +81,7 @@
       "type": "text",
       "languages": {
         "Chinese_Simplified": "饥饿",
-        "Chinese_Traditional": "饥饿",
+        "Chinese_Traditional": "飢餓",
         "English": "Hunger",
         "Polish": "Głód",
         "Russian": "Голод",
