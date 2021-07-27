@@ -19,7 +19,7 @@
         "German": "Loyisas europäischer Testserver (1.8.x~1.17.1)",
         "Czech": "Evropský Testovací Server Loyisa (1.8.x~1.17.1)",
         "Nederlands": " ",
-        "Turkish": " ",
+        "Turkish": "Loyisa\u0027nın Avrupa Test Sunucusu (1.8.x~1.17.1)",
         "Bulgarian": " ",
         "Spanish":"Servidor de pruebas de Loyisa en Europa (1.8.x~1.17.1)"
       }
@@ -39,7 +39,7 @@
         "German": "Asiatischer Server -\u003e mc.loyisa.cn",
         "Czech": "Asijský Server -\u003e mc.loyisa.cn",
         "Nederlands": " ",
-        "Turkish": " ",
+        "Turkish": "Asya Sunucusu -\u003e mc.loyisa.cn",
         "Bulgarian": " ",
         "Spanish": "Servidor de Asia -\u003e mc.loyisa.cn"
       }
@@ -59,7 +59,7 @@
         "German": "Loyisas asiatischer TestServer (1.8.x~1.17.1)",
         "Czech": "Asijský Testovací server Loyisa (1.8.x~1.17.1)",
         "Nederlands": " ",
-        "Turkish": " ",
+        "Turkish": "Loyisa\u0027nın Asya Test Sunucusu  (1.8.x~1.17.1)",
         "Bulgarian": " ",
         "Spanish": "Servidor de pruebas de Loyisa en Asia (1.8.x~1.17.1)"
       }
@@ -79,7 +79,7 @@
         "German": "Europäischer Server -\u003e eu.loyisa.cn",
         "Czech": "Evropský Server -\u003e eu.loyisa.cn",
         "Nederlands": " ",
-        "Turkish": " ",
+        "Turkish": "Avrupa Suncusu -\u003e eu.loyisa.cn",
         "Bulgarian": " ",
         "Spanish":"Servidor de Europa -\u003e mc.loyisa.cn"
       }
