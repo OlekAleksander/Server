@@ -19,7 +19,8 @@
         "Czech": "Anticheat",
         "German": "Anticheat",
         "Nederlands": "none",
-        "Turkish": "Anti Hile"
+        "Turkish": "Anti Hile",
+        "Bulgarian": " "
       }
     },
     {
@@ -37,7 +38,8 @@
         "German": "Rang",
         "Czech": "Hodnost",
         "Nederlands": "none",
-        "Turkish": "Rütbe"
+        "Turkish": "Rütbe",
+        "Bulgarian": " "
       }
     },
     {
@@ -55,7 +57,8 @@
         "German": "Kick",
         "Czech": "Vyhození",
         "Nederlands": "none",
-        "Turkish": "Sunucudan At"
+        "Turkish": "Sunucudan At",
+        "Bulgarian": " "
       }
     },
     {
@@ -73,7 +76,8 @@
         "German": "Schaden",
         "Czech": "Poškození",
         "Nederlands": "none",
-        "Turkish": "Hasar"
+        "Turkish": "Hasar",
+        "Bulgarian": " "
       }
     },
     {
@@ -91,7 +95,8 @@
         "German": "Hunger",
         "Czech": "Hladovění",
         "Nederlands": "none",
-        "Turkish": "Açlık"
+        "Turkish": "Açlık",
+        "Bulgarian": " "
       }
     },
     {
@@ -109,7 +114,8 @@
         "German": "Loyisa\u0027s Test Server",
         "Czech": "Loyisa\u0027s Test Server",
         "Nederlands": "none",
-        "Turkish": "Loyisa\u0027nın Test Sunucusu"
+        "Turkish": "Loyisa\u0027nın Test Sunucusu",
+        "Bulgarian": " "
       }
     }
   ]
