@@ -20,7 +20,8 @@
         "German": "Anticheat",
         "Nederlands": "none",
         "Turkish": "Anti Hile",
-        "Bulgarian": " "
+        "Bulgarian": " ",
+        "Spanish": "Anticheat"
       }
     },
     {
@@ -39,7 +40,8 @@
         "Czech": "Hodnost",
         "Nederlands": "none",
         "Turkish": "Rütbe",
-        "Bulgarian": " "
+        "Bulgarian": " ",
+        "Spanish": "Rango"
       }
     },
     {
@@ -58,7 +60,8 @@
         "Czech": "Vyhození",
         "Nederlands": "none",
         "Turkish": "Sunucudan At",
-        "Bulgarian": " "
+        "Bulgarian": " ",
+        "Spanish": "Kick"
       }
     },
     {
@@ -77,7 +80,8 @@
         "Czech": "Poškození",
         "Nederlands": "none",
         "Turkish": "Hasar",
-        "Bulgarian": " "
+        "Bulgarian": " ",
+        "Spanish":"Daño"
       }
     },
     {
@@ -96,7 +100,8 @@
         "Czech": "Hladovění",
         "Nederlands": "none",
         "Turkish": "Açlık",
-        "Bulgarian": " "
+        "Bulgarian": " ",
+        "Spanish": "Hambre"
       }
     },
     {
@@ -115,7 +120,8 @@
         "Czech": "Testovací server Loyisa",
         "Nederlands": "none",
         "Turkish": "Loyisa\u0027nın Test Sunucusu",
-        "Bulgarian": " "
+        "Bulgarian": " ",
+        "Spanish": "Servidor de prueba de Loyisa"
       }
     }
   ]
