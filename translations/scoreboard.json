@@ -5,7 +5,7 @@
   },
   "items": [
     {
-      "key": "scoreboard.anticheat",
+      "key": "server.scoreboard.anticheat",
       "type": "text",
       "languages": {
         "Chinese_Simplified": "反作弊",
@@ -23,7 +23,7 @@
       }
     },
     {
-      "key": "scoreboard.rank",
+      "key": "server.scoreboard.rank",
       "type": "text",
       "languages": {
         "Chinese_Simplified": "等级",
@@ -41,7 +41,7 @@
       }
     },
     {
-      "key": "scoreboard.kick",
+      "key": "server.scoreboard.kick",
       "type": "text",
       "languages": {
         "Chinese_Simplified": "踢出",
@@ -59,7 +59,7 @@
       }
     },
     {
-      "key": "scoreboard.damage",
+      "key": "server.scoreboard.damage",
       "type": "text",
       "languages": {
         "Chinese_Simplified": "伤害",
@@ -77,7 +77,7 @@
       }
     },
     {
-      "key": "scoreboard.hunger",
+      "key": "server.scoreboard.hunger",
       "type": "text",
       "languages": {
         "Chinese_Simplified": "饥饿",
@@ -95,7 +95,7 @@
       }
     },
     {
-      "key": "scoreboard.title",
+      "key": "server.scoreboard.title",
       "type": "text",
       "languages": {
         "English": "Loyisa\u0027s Test Server",
