@@ -13,9 +13,9 @@
       "Finnish": "Anticheat",
       "Czech": "Anticheat",
       "German": "Anticheat",
-      "Nederlands": "none",
+      "Nederlands": "",
       "Turkish": "Anti Hile",
-      "Bulgarian": " ",
+      "Bulgarian": "",
       "Spanish": "Anticheat"
     }
   },
@@ -33,9 +33,9 @@
       "Finnish": "Rooli",
       "German": "Rang",
       "Czech": "Hodnost",
-      "Nederlands": "none",
+      "Nederlands": "",
       "Turkish": "Rütbe",
-      "Bulgarian": " ",
+      "Bulgarian": "",
       "Spanish": "Rango"
     }
   },
@@ -53,9 +53,9 @@
       "Finnish": "Potkaisut",
       "German": "Kick",
       "Czech": "Vyhození",
-      "Nederlands": "none",
+      "Nederlands": "",
       "Turkish": "Sunucudan At",
-      "Bulgarian": " ",
+      "Bulgarian": "",
       "Spanish": "Kick"
     }
   },
@@ -73,9 +73,9 @@
       "Finnish": "Vahinko",
       "German": "Schaden",
       "Czech": "Poškození",
-      "Nederlands": "none",
+      "Nederlands": "",
       "Turkish": "Hasar",
-      "Bulgarian": " ",
+      "Bulgarian": "",
       "Spanish": "Daño"
     }
   },
@@ -93,9 +93,9 @@
       "Finnish": "Nälkä",
       "German": "Hunger",
       "Czech": "Hladovění",
-      "Nederlands": "none",
+      "Nederlands": "",
       "Turkish": "Açlık",
-      "Bulgarian": " ",
+      "Bulgarian": "",
       "Spanish": "Hambre"
     }
   },
@@ -113,10 +113,50 @@
       "Finnish": "Loyisan Testi Serveri",
       "German": "Loyisas Test Server",
       "Czech": "Testovací server Loyisa",
-      "Nederlands": "none",
+      "Nederlands": "",
       "Turkish": "Loyisa\u0027nın Test Sunucusu",
-      "Bulgarian": " ",
+      "Bulgarian": "",
       "Spanish": "Servidor de prueba de Loyisa"
+    }
+  },
+  {
+    "key": "server.scoreboard.true",
+    "type": "text",
+    "languages": {
+      "English": "true",
+      "Chinese_Simplified": "开启",
+      "Chinese_Traditional": "开启",
+      "Polish": "",
+      "Russian": "",
+      "French": "",
+      "Latvian": "",
+      "Finnish": "",
+      "German": "",
+      "Czech": "",
+      "Nederlands": "",
+      "Turkish": "",
+      "Bulgarian": " ",
+      "Spanish": ""
+    }
+  },
+  {
+    "key": "server.scoreboard.false",
+    "type": "text",
+    "languages": {
+      "English": "false",
+      "Chinese_Simplified": "关闭",
+      "Chinese_Traditional": "关闭",
+      "Polish": "",
+      "Russian": "",
+      "French": "",
+      "Latvian": "",
+      "Finnish": "",
+      "German": "",
+      "Czech": "",
+      "Nederlands": "",
+      "Turkish": "",
+      "Bulgarian": " ",
+      "Spanish": ""
     }
   }
 ]
