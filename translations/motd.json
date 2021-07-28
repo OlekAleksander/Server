@@ -1,88 +1,82 @@
-{
-  "metadata": {
-    "blacklist": true,
-    "servers": []
-  },
-  "items": [
-    {
-      "key": "server.motd.line1eu",
-      "type": "text",
-      "languages": {
-        "Chinese_Simplified": "Loyisa的欧洲测试服务器 (1.8.x~1.17.1)",
-        "English": "Loyisa\u0027s Europe Testserver (1.8.x~1.17.1)",
-        "Chinese_Traditional": "Loyisa的欧洲测试服务器 (1.8.x~1.17.1)",
-        "Polish": "Europejski serwer testowy Loyisy (1.8x~1.17.1)",
-        "Russian": "Европейский Тест Сервер имени Loyisa (1.8.x~1.17.1)",
-        "French": "Serveur de test européen de Loyisa (1.8.x~1.17.1)",
-        "Latvian": "Loyisas Eiropas Test Serveris",
-        "Finnish": "Loyisan Eurooppalainen Testi Serveri (1.8.x~1.17.1)",
-        "German": "Loyisas europäischer Testserver (1.8.x~1.17.1)",
-        "Czech": "Evropský Testovací Server Loyisa (1.8.x~1.17.1)",
-        "Nederlands": " ",
-        "Turkish": "Loyisa\u0027nın Avrupa Test Sunucusu (1.8.x~1.17.1)",
-        "Bulgarian": " ",
-        "Spanish":"Servidor de pruebas de Loyisa en Europa (1.8.x~1.17.1)"
-      }
-    },
-    {
-      "key": "server.motd.line2eu",
-      "type": "text",
-      "languages": {
-        "Chinese_Simplified": "亚洲服务器 -\u003e mc.loyisa.cn",
-        "English": "Asia Server -\u003e mc.loyisa.cn",
-        "Chinese_Traditional": "亚洲服务器 -\u003e mc.loyisa.cn",
-        "Polish": "Azjatycki serwer -\u003e mc.loyisa.cn" ",
-        "Russian": "Азиатский сервер -\u003e mc.loyisa.cn",
-        "French": "Serveur asiatique -\u003e mc.loyisa.cn",
-        "Latvian": "Āzijas Serveris -\u003e mc.loyisa.cn",
-        "Finnish": "Aasian Serveri -\u003e mc.loyisa.cn",
-        "German": "Asiatischer Server -\u003e mc.loyisa.cn",
-        "Czech": "Asijský Server -\u003e mc.loyisa.cn",
-        "Nederlands": " ",
-        "Turkish": "Asya Sunucusu -\u003e mc.loyisa.cn",
-        "Bulgarian": " ",
-        "Spanish": "Servidor de Asia -\u003e mc.loyisa.cn"
-      }
-    },
-    {
-      "key": "server.motd.line1asia",
-      "type": "text",
-      "languages": {
-        "Chinese_Simplified": "Loyisa的亚洲测试服务器 (1.8.x~1.17.1)",
-        "English": "Loyisa\u0027s Asia TestServer (1.8.x~1.17.1)",
-        "Chinese_Traditional": "Loyisa的亚洲测试服务器 (1.8.x~1.17.1)",
-        "Polish": "Azjatycki serwer testowy Loyisy (1.8.x~1.17.1)",
-        "Russian": "Азиатский Тест сервер имени Loyisa (1.8.x~1.17.1)",
-        "French": "Serveur de test asiatique de Loyisa (1.8.x~1.17.1)",
-        "Latvian": "Loyisas Āzijas Test Serveris",
-        "Finnish": "Loyisan Aasialainen Testi Serveri (1.8.x~1.17.1)",
-        "German": "Loyisas asiatischer TestServer (1.8.x~1.17.1)",
-        "Czech": "Asijský Testovací server Loyisa (1.8.x~1.17.1)",
-        "Nederlands": " ",
-        "Turkish": "Loyisa\u0027nın Asya Test Sunucusu  (1.8.x~1.17.1)",
-        "Bulgarian": " ",
-        "Spanish": "Servidor de pruebas de Loyisa en Asia (1.8.x~1.17.1)"
-      }
-    },
-    {
-      "key": "server.motd.line2asia",
-      "type": "text",
-      "languages": {
-        "Chinese_Simplified": "欧洲服务器 -\u003e eu.loyisa.cn",
-        "English": "Europe Server -\u003e eu.loyisa.cn",
-        "Chinese_Traditional": "欧洲服务器 -\u003e eu.loyisa.cn",
-        "Polish": "Europejski Serwer -\u003e eu.loyisa.cn",
-        "Russian": "Европейский сервер -\u003e eu.loyisa.cn",
-        "French": "Serveur européen -\u003e eu.loyisa.cn",
-        "Latvian": "Eiropas Serveris -\u003e eu.loyisa.cn",
-        "Finnish": "Eurooppalainen Serveri -\u003e eu.loyisa.cn",
-        "German": "Europäischer Server -\u003e eu.loyisa.cn",
-        "Czech": "Evropský Server -\u003e eu.loyisa.cn",
-        "Nederlands": " ",
-        "Turkish": "Avrupa Suncusu -\u003e eu.loyisa.cn",
-        "Bulgarian": " ",
-        "Spanish":"Servidor de Europa -\u003e mc.loyisa.cn"
-      }
+[
+  {
+    "key": "server.motd.line1eu",
+    "type": "text",
+    "languages": {
+      "Chinese_Simplified": "Loyisa的欧洲测试服务器 (1.8.x~1.17.1)",
+      "English": "Loyisa\u0027s Europe Testserver (1.8.x~1.17.1)",
+      "Chinese_Traditional": "Loyisa的欧洲测试服务器 (1.8.x~1.17.1)",
+      "Polish": "Europejski serwer testowy Loyisy (1.8x~1.17.1)",
+      "Russian": "Европейский Тест Сервер имени Loyisa (1.8.x~1.17.1)",
+      "French": "Serveur de test européen de Loyisa (1.8.x~1.17.1)",
+      "Latvian": "Loyisas Eiropas Test Serveris",
+      "Finnish": "Loyisan Eurooppalainen Testi Serveri (1.8.x~1.17.1)",
+      "German": "Loyisas europäischer Testserver (1.8.x~1.17.1)",
+      "Czech": "Evropský Testovací Server Loyisa (1.8.x~1.17.1)",
+      "Nederlands": " ",
+      "Turkish": "Loyisa\u0027nın Avrupa Test Sunucusu (1.8.x~1.17.1)",
+      "Bulgarian": " ",
+      "Spanish": "Servidor de pruebas de Loyisa en Europa (1.8.x~1.17.1)"
     }
-  ]
-}
+  },
+  {
+    "key": "server.motd.line2eu",
+    "type": "text",
+    "languages": {
+      "Chinese_Simplified": "亚洲服务器 -\u003e mc.loyisa.cn",
+      "English": "Asia Server -\u003e mc.loyisa.cn",
+      "Chinese_Traditional": "亚洲服务器 -\u003e mc.loyisa.cn",
+      "Polish": "Azjatycki serwer -\u003e mc.loyisa.cn",
+      "Russian": "Азиатский сервер -\u003e mc.loyisa.cn",
+      "French": "Serveur asiatique -\u003e mc.loyisa.cn",
+      "Latvian": "Āzijas Serveris -\u003e mc.loyisa.cn",
+      "Finnish": "Aasian Serveri -\u003e mc.loyisa.cn",
+      "German": "Asiatischer Server -\u003e mc.loyisa.cn",
+      "Czech": "Asijský Server -\u003e mc.loyisa.cn",
+      "Nederlands": " ",
+      "Turkish": "Asya Sunucusu -\u003e mc.loyisa.cn",
+      "Bulgarian": " ",
+      "Spanish": "Servidor de Asia -\u003e mc.loyisa.cn"
+    }
+  },
+  {
+    "key": "server.motd.line1asia",
+    "type": "text",
+    "languages": {
+      "Chinese_Simplified": "Loyisa的亚洲测试服务器 (1.8.x~1.17.1)",
+      "English": "Loyisa\u0027s Asia TestServer (1.8.x~1.17.1)",
+      "Chinese_Traditional": "Loyisa的亚洲测试服务器 (1.8.x~1.17.1)",
+      "Polish": "Azjatycki serwer testowy Loyisy (1.8.x~1.17.1)",
+      "Russian": "Азиатский Тест сервер имени Loyisa (1.8.x~1.17.1)",
+      "French": "Serveur de test asiatique de Loyisa (1.8.x~1.17.1)",
+      "Latvian": "Loyisas Āzijas Test Serveris",
+      "Finnish": "Loyisan Aasialainen Testi Serveri (1.8.x~1.17.1)",
+      "German": "Loyisas asiatischer TestServer (1.8.x~1.17.1)",
+      "Czech": "Asijský Testovací server Loyisa (1.8.x~1.17.1)",
+      "Nederlands": " ",
+      "Turkish": "Loyisa\u0027nın Asya Test Sunucusu  (1.8.x~1.17.1)",
+      "Bulgarian": " ",
+      "Spanish": "Servidor de pruebas de Loyisa en Asia (1.8.x~1.17.1)"
+    }
+  },
+  {
+    "key": "server.motd.line2asia",
+    "type": "text",
+    "languages": {
+      "Chinese_Simplified": "欧洲服务器 -\u003e eu.loyisa.cn",
+      "English": "Europe Server -\u003e eu.loyisa.cn",
+      "Chinese_Traditional": "欧洲服务器 -\u003e eu.loyisa.cn",
+      "Polish": "Europejski Serwer -\u003e eu.loyisa.cn",
+      "Russian": "Европейский сервер -\u003e eu.loyisa.cn",
+      "French": "Serveur européen -\u003e eu.loyisa.cn",
+      "Latvian": "Eiropas Serveris -\u003e eu.loyisa.cn",
+      "Finnish": "Eurooppalainen Serveri -\u003e eu.loyisa.cn",
+      "German": "Europäischer Server -\u003e eu.loyisa.cn",
+      "Czech": "Evropský Server -\u003e eu.loyisa.cn",
+      "Nederlands": " ",
+      "Turkish": "Avrupa Suncusu -\u003e eu.loyisa.cn",
+      "Bulgarian": " ",
+      "Spanish": "Servidor de Europa -\u003e mc.loyisa.cn"
+    }
+  }
+]

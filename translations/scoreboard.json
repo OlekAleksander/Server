@@ -1,128 +1,122 @@
-{
-  "metadata": {
-    "blacklist": true,
-    "servers": []
-  },
-  "items": [
-    {
-      "key": "server.scoreboard.anticheat",
-      "type": "text",
-      "languages": {
-        "Chinese_Simplified": "反作弊",
-        "English": "Anticheat",
-        "Chinese_Traditional": "反作弊",
-        "Polish": "AntyCheat",
-        "Russian": "Античит",
-        "French": "Anticheat",
-        "Latvian": "Antičīts",
-        "Finnish": "Anticheat",
-        "Czech": "Anticheat",
-        "German": "Anticheat",
-        "Nederlands": "none",
-        "Turkish": "Anti Hile",
-        "Bulgarian": " ",
-        "Spanish": "Anticheat"
-      }
-    },
-    {
-      "key": "server.scoreboard.rank",
-      "type": "text",
-      "languages": {
-        "Chinese_Simplified": "等级",
-        "Chinese_Traditional": "等级",
-        "English": "Rank",
-        "Polish": "Ranga",
-        "Russian": "Ранг",
-        "French": "Rang",
-        "Latvian": "Ranks",
-        "Finnish": "Rooli",
-        "German": "Rang",
-        "Czech": "Hodnost",
-        "Nederlands": "none",
-        "Turkish": "Rütbe",
-        "Bulgarian": " ",
-        "Spanish": "Rango"
-      }
-    },
-    {
-      "key": "server.scoreboard.kick",
-      "type": "text",
-      "languages": {
-        "Chinese_Simplified": "踢出",
-        "Chinese_Traditional": "踢出",
-        "English": "Kick",
-        "Polish": "Wyrzucanie",
-        "Russian": "Кики",
-        "French": "Éjection",
-        "Latvian": "Kick",
-        "Finnish": "Potkaisut",
-        "German": "Kick",
-        "Czech": "Vyhození",
-        "Nederlands": "none",
-        "Turkish": "Sunucudan At",
-        "Bulgarian": " ",
-        "Spanish": "Kick"
-      }
-    },
-    {
-      "key": "server.scoreboard.damage",
-      "type": "text",
-      "languages": {
-        "Chinese_Simplified": "伤害",
-        "Chinese_Traditional": "傷害",
-        "English": "Damage",
-        "Polish": "Obrażenia",
-        "Russian": "Урон",
-        "French": "Dégats",
-        "Latvian": "Sabojājums",
-        "Finnish": "Vahinko",
-        "German": "Schaden",
-        "Czech": "Poškození",
-        "Nederlands": "none",
-        "Turkish": "Hasar",
-        "Bulgarian": " ",
-        "Spanish":"Daño"
-      }
-    },
-    {
-      "key": "server.scoreboard.hunger",
-      "type": "text",
-      "languages": {
-        "Chinese_Simplified": "饥饿",
-        "Chinese_Traditional": "飢餓",
-        "English": "Hunger",
-        "Polish": "Głód",
-        "Russian": "Голод",
-        "French": "Faim",
-        "Latvian": "Badā",
-        "Finnish": "Nälkä",
-        "German": "Hunger",
-        "Czech": "Hladovění",
-        "Nederlands": "none",
-        "Turkish": "Açlık",
-        "Bulgarian": " ",
-        "Spanish": "Hambre"
-      }
-    },
-    {
-      "key": "server.scoreboard.title",
-      "type": "text",
-      "languages": {
-        "English": "Loyisa\u0027s Test Server",
-        "Chinese_Simplified": "Loyisa的测试服务器",
-        "Chinese_Traditional": "Loyisa的測試伺服器",
-        "Polish": "Serwer testowy Loyisi",
-        "Russian": "Тест Сервер имени Loyisa",
-        "French": "Serveur de Test de Loyisa",
-        "Latvian": "Loyisas Test Serveris",
-        "Finnish": "Loyisan Testi Serveri",
-        "German": "Loyisas Test Server",
-        "Czech": "Testovací server Loyisa",
-        "Nederlands": "none",
-        "Turkish": "Loyisa\u0027nın Test Sunucusu",
-        "Bulgarian": " ",
-        "Spanish": "Servidor de prueba de Loyisa"
-      }
+[
+  {
+    "key": "server.scoreboard.anticheat",
+    "type": "text",
+    "languages": {
+      "Chinese_Simplified": "反作弊",
+      "English": "Anticheat",
+      "Chinese_Traditional": "反作弊",
+      "Polish": "AntyCheat",
+      "Russian": "Античит",
+      "French": "Anticheat",
+      "Latvian": "Antičīts",
+      "Finnish": "Anticheat",
+      "Czech": "Anticheat",
+      "German": "Anticheat",
+      "Nederlands": "none",
+      "Turkish": "Anti Hile",
+      "Bulgarian": " ",
+      "Spanish": "Anticheat"
     }
-  ]
-}
+  },
+  {
+    "key": "server.scoreboard.rank",
+    "type": "text",
+    "languages": {
+      "Chinese_Simplified": "等级",
+      "Chinese_Traditional": "等级",
+      "English": "Rank",
+      "Polish": "Ranga",
+      "Russian": "Ранг",
+      "French": "Rang",
+      "Latvian": "Ranks",
+      "Finnish": "Rooli",
+      "German": "Rang",
+      "Czech": "Hodnost",
+      "Nederlands": "none",
+      "Turkish": "Rütbe",
+      "Bulgarian": " ",
+      "Spanish": "Rango"
+    }
+  },
+  {
+    "key": "server.scoreboard.kick",
+    "type": "text",
+    "languages": {
+      "Chinese_Simplified": "踢出",
+      "Chinese_Traditional": "踢出",
+      "English": "Kick",
+      "Polish": "Wyrzucanie",
+      "Russian": "Кики",
+      "French": "Éjection",
+      "Latvian": "Kick",
+      "Finnish": "Potkaisut",
+      "German": "Kick",
+      "Czech": "Vyhození",
+      "Nederlands": "none",
+      "Turkish": "Sunucudan At",
+      "Bulgarian": " ",
+      "Spanish": "Kick"
+    }
+  },
+  {
+    "key": "server.scoreboard.damage",
+    "type": "text",
+    "languages": {
+      "Chinese_Simplified": "伤害",
+      "Chinese_Traditional": "傷害",
+      "English": "Damage",
+      "Polish": "Obrażenia",
+      "Russian": "Урон",
+      "French": "Dégats",
+      "Latvian": "Sabojājums",
+      "Finnish": "Vahinko",
+      "German": "Schaden",
+      "Czech": "Poškození",
+      "Nederlands": "none",
+      "Turkish": "Hasar",
+      "Bulgarian": " ",
+      "Spanish": "Daño"
+    }
+  },
+  {
+    "key": "server.scoreboard.hunger",
+    "type": "text",
+    "languages": {
+      "Chinese_Simplified": "饥饿",
+      "Chinese_Traditional": "飢餓",
+      "English": "Hunger",
+      "Polish": "Głód",
+      "Russian": "Голод",
+      "French": "Faim",
+      "Latvian": "Badā",
+      "Finnish": "Nälkä",
+      "German": "Hunger",
+      "Czech": "Hladovění",
+      "Nederlands": "none",
+      "Turkish": "Açlık",
+      "Bulgarian": " ",
+      "Spanish": "Hambre"
+    }
+  },
+  {
+    "key": "server.scoreboard.title",
+    "type": "text",
+    "languages": {
+      "English": "Loyisa\u0027s Test Server",
+      "Chinese_Simplified": "Loyisa的测试服务器",
+      "Chinese_Traditional": "Loyisa的測試伺服器",
+      "Polish": "Serwer testowy Loyisi",
+      "Russian": "Тест Сервер имени Loyisa",
+      "French": "Serveur de Test de Loyisa",
+      "Latvian": "Loyisas Test Serveris",
+      "Finnish": "Loyisan Testi Serveri",
+      "German": "Loyisas Test Server",
+      "Czech": "Testovací server Loyisa",
+      "Nederlands": "none",
+      "Turkish": "Loyisa\u0027nın Test Sunucusu",
+      "Bulgarian": " ",
+      "Spanish": "Servidor de prueba de Loyisa"
+    }
+  }
+]
