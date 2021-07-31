@@ -123,40 +123,40 @@
     "key": "server.scoreboard.true",
     "type": "text",
     "languages": {
-      "English": "true",
+      "English": "enabled",
       "Chinese_Simplified": "开启",
       "Chinese_Traditional": "开启",
       "Polish": "",
       "Russian": "",
-      "French": "",
+      "French": "activé",
       "Latvian": "",
       "Finnish": "",
-      "German": "",
+      "German": "aktiviert",
       "Czech": "",
       "Nederlands": "",
       "Turkish": "",
       "Bulgarian": " ",
-      "Spanish": ""
+      "Spanish": "activado"
     }
   },
   {
     "key": "server.scoreboard.false",
     "type": "text",
     "languages": {
-      "English": "false",
+      "English": "disabled",
       "Chinese_Simplified": "关闭",
       "Chinese_Traditional": "关闭",
       "Polish": "",
       "Russian": "",
-      "French": "",
+      "French": "désactivé",
       "Latvian": "",
       "Finnish": "",
-      "German": "",
+      "German": "deaktiviert",
       "Czech": "",
       "Nederlands": "",
       "Turkish": "",
       "Bulgarian": " ",
-      "Spanish": ""
+      "Spanish": "desactivado"
     }
   }
 ]
