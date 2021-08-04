@@ -134,7 +134,7 @@
       "German": "aktiviert",
       "Czech": "aktivováno",
       "Nederlands": "",
-      "Turkish": "",
+      "Turkish": "Aktif",
       "Bulgarian": "включен",
       "Spanish": "activado"
     }
@@ -154,7 +154,7 @@
       "German": "deaktiviert",
       "Czech": "deaktivováno",
       "Nederlands": "",
-      "Turkish": "",
+      "Turkish": "Devre Dışı",
       "Bulgarian": "изключен",
       "Spanish": "desactivado"
     }
