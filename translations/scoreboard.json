@@ -13,7 +13,6 @@
       "Finnish": "Anticheat",
       "Czech": "Anticheat",
       "German": "Anticheat",
-      "Nederlands": "",
       "Turkish": "Anti Hile",
       "Bulgarian": "Античит",
       "Spanish": "Anticheat"
@@ -33,7 +32,6 @@
       "Finnish": "Rooli",
       "German": "Rang",
       "Czech": "Hodnost",
-      "Nederlands": "",
       "Turkish": "Rütbe",
       "Bulgarian": "Ранг",
       "Spanish": "Rango"
@@ -53,7 +51,6 @@
       "Finnish": "Potkaisut",
       "German": "Kick",
       "Czech": "Vyhození",
-      "Nederlands": "",
       "Turkish": "Sunucudan At",
       "Bulgarian": "Kick",
       "Spanish": "Kick"
@@ -73,7 +70,6 @@
       "Finnish": "Vahinko",
       "German": "Schaden",
       "Czech": "Poškození",
-      "Nederlands": "",
       "Turkish": "Hasar",
       "Bulgarian": "Щета",
       "Spanish": "Daño"
@@ -93,7 +89,6 @@
       "Finnish": "Nälkä",
       "German": "Hunger",
       "Czech": "Hladovění",
-      "Nederlands": "",
       "Turkish": "Açlık",
       "Bulgarian": "Глад",
       "Spanish": "Hambre"
@@ -113,7 +108,6 @@
       "Finnish": "Loyisan Testi Serveri",
       "German": "Loyisas Test Server",
       "Czech": "Testovací server Loyisa",
-      "Nederlands": "",
       "Turkish": "Loyisa\u0027nın Test Sunucusu",
       "Bulgarian": "Тест сървър на Loyisa",
       "Spanish": "Servidor de prueba de Loyisa"
@@ -133,7 +127,6 @@
       "Finnish": "",
       "German": "aktiviert",
       "Czech": "aktivováno",
-      "Nederlands": "",
       "Turkish": "Aktif",
       "Bulgarian": "включен",
       "Spanish": "activado"
@@ -153,7 +146,6 @@
       "Finnish": "",
       "German": "deaktiviert",
       "Czech": "deaktivováno",
-      "Nederlands": "",
       "Turkish": "Devre Dışı",
       "Bulgarian": "изключен",
       "Spanish": "desactivado"
