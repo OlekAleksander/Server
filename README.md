@@ -1,1 +1,1 @@
-Polish translation fkr loyisas tesst server
+Polish translation for loyisas test server
